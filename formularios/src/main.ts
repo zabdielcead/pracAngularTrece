@@ -10,3 +10,10 @@ if (environment.production) {
 
 platformBrowserDynamic().bootstrapModule(AppModule)
   .catch(err => console.error(err));
+
+
+
+  //https://angular.io/guide/reactive-forms
+
+
+  // json-server --watch db.json
